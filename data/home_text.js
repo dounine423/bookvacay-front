@@ -1,0 +1,9 @@
+export const data1 = [
+    { id: 1, title: "Find Your Dream Luxury Hotel", subtitle: '<p className="text-white mt-5">    Discover amzaing places at exclusive deals  </p>' , image : "/img/masthead/4/bg.png" ,category: "Hotel", class:"hotel"},
+    { id: 2, title: 'Best Travel&nbsp <span className="text-blue-1 relative">      Experience&nbsp         </span>', subtitle: 'Experience the various exciting tour and travel packages and Make    hotel reservations, find    <br className="lg:d-none" /> vacation packages, search cheap    hotels and events' , image : "/img/masthead/5/1.png" ,category: "Tour" , class:"tour"},
+    { id: 3, title: "The World is Waiting For You", subtitle: "Discover amzaing places at exclusive deals" , image : "/img/masthead/6/bg.png" ,category: "Activity" , class:"activity"},
+    { id: 4, title: 'Unique Houses Are Waiting    <br className="lg:d-none" /> For You', subtitle: "Discover amzaing places at exclusive deals" , image : "/img/masthead/7/bg.png" ,category: "Holyday Rentals" ,class:"rental"},
+    { id: 5, title: "Search for the Best Car Hire Deals", subtitle: "Book better cars from local hosts across the US and around the world." , image : "/img/masthead/8/1.png" ,category: "Car" ,class:"car"},
+    { id: 6, title: 'Find The Best Cruise    <br className="md:d-none" /> For You', subtitle: "TOUR EXPERIENCE" , image : "/img/masthead/9/bg.png" ,category: "Cruise" , class:"cruise"},
+    { id: 7, title: "Where do You Want To Fly", subtitle: '<p className="mt-5" data-aos="fade-up" data-aos-delay="200">    Discover amzaing places at exclusive deals  </p>' , image : "/img/masthead/10/1.png" ,category: "Flights" , class:"flight"},
+  ];
